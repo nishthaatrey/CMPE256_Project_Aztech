@@ -2,7 +2,7 @@
 
 ## [San Jose State University](http://www.sjsu.edu/)
 
-## [CMPE 266:Large Scale Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE256.html)
+## [CMPE 256:Large Scale Analytics](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE256.html)
 
 ##### Under the guidance of
 ### [Dr. Gheorghi Guzun](https://www.linkedin.com/in/sanjaygarje/)
